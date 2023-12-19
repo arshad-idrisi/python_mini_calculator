@@ -119,7 +119,4 @@ b = Button(f, text=".", font="lucida 20 bold", padx=10, pady=10)
 b.pack(side=LEFT, padx=10, pady=10)
 b.bind("<Button-1>",click)
 
-
-
-
 root.mainloop()
